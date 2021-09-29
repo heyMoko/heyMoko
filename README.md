@@ -1,3 +1,1 @@
-![대문](https://user-images.githubusercontent.com/62370144/135242123-28c458f1-26d5-4e4b-bfcc-8270033cffd8.png)
-
-
+![대문](https://user-images.githubusercontent.com/62370144/135242299-00535035-11e5-422a-a2f1-d6c67f8e37e7.png)
