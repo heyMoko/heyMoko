@@ -16,9 +16,7 @@
 </p> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyMoko&layout=compact&theme=default&langs_count=4"/>
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=heyMoko&show_icons=true&theme=default"/>
-</p>
+
     
 <img src="https://user-images.githubusercontent.com/62370144/135639999-d6b8dc93-981e-46ab-a3dd-601843ad7435.png"/>
 
