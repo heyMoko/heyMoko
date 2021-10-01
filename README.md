@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/62370144/135637557-36d2bd60-11eb-4a9b-93c7-b554d01ff578.png"/>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=heyMoko&show_icons=true&theme=default"/></p>
 </p> 
