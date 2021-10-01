@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62370144/135637557-36d2bd60-11eb-4a9b-93c7-b554d01ff578.png"/>
+<img src="https://user-images.githubusercontent.com/62370144/135639197-67942246-7b47-4ed0-8e0f-9eee916629c7.png"/>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=heyMoko&show_icons=true&theme=default"/></p>
@@ -9,19 +9,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=heyMoko&theme=chalk&row=1&column=2&margin-w=5"/>
 </p>
 
-<p>
-  <img src="https://user-images.githubusercontent.com/62370144/135634926-6069dff6-a751-4452-a54a-a2f158782970.PNG" weight="28" height="28"/>
-</p>
-  
+<h3>Tech Stack<h3>
 <p>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
 </p>
-
+<h3>Blog</h3>
 <p>
-  <img src="https://user-images.githubusercontent.com/62370144/135635737-54f1b60d-ac5f-4a90-ab8d-66228c419c8c.jpg" width="300" height="300"/>
-</p>
-
+  <a href="https://velog.io/@heymoko"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@heymoko"/></a>&nbsp
+</p>  
+  
+<img src="https://user-images.githubusercontent.com/62370144/135639999-d6b8dc93-981e-46ab-a3dd-601843ad7435.png"/>
 
 
 
