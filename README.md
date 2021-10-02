@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/62370144/135639197-67942246-7b47-4ed0-8e0f-9eee916629c7.png"/></br></br>
 
  **앱**과 **코딩**을 즐기는 **모바일 개발자**가 되고싶은 **유정모**라고합니다.<br/>
-새로운 것에 **도전**하고, 어렵고 안되는 걸 붙잡고 끝까지 파고드는 **집념**을 바탕으로 발전하기 위해 노력하고 있습니다. <br/>
+새로운 것에 **도전**하고, 어렵고 안되는 걸 붙잡고 끝까지 파고드는 **집념**을 바탕으로 **발전**하기 위해 **노력**하고 있습니다. <br/>
 > **Do it though you don't want to. Feelings fade, results remain.** 👊 <br/> 
 
 <h3> Statistics: </h3>
