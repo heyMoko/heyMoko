@@ -8,6 +8,6 @@
 
 <h3> Statistics: </h3>
 <p align="left">
-  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=heymoko&hide=stars&show_icons=true&theme=radical" width="440" height="150"/> &nbsp;
+  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=heymoko&hide=stars&show_icons=true&theme=radical" width="400" height="150"/> &nbsp;
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymoko&layout=compact&theme=radical" height="150">
 </p>
