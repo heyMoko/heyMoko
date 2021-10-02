@@ -4,7 +4,8 @@
 <img src="https://user-images.githubusercontent.com/62370144/135639197-67942246-7b47-4ed0-8e0f-9eee916629c7.png"/></br></br>
 
  **앱**과 **코딩**을 즐기는 **모바일 개발자**가 되고싶은 **유정모**라고합니다.<br/>
-새로운 것에 **도전**하고, 어렵고 안되는 걸 붙잡고 끝까지 파고드는 **집념**을 바탕으로 발전하기 위해 노력하고 있습니다.</br></br>
+새로운 것에 **도전**하고, 어렵고 안되는 걸 붙잡고 끝까지 파고드는 **집념**을 바탕으로 발전하기 위해 노력하고 있습니다. <br/>
+> **Do it though you don't want to. Feelings fade, results remain.** 👊 <br/> 
 
 <h3> Statistics: </h3>
 <p align="left">
@@ -22,13 +23,14 @@
  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp
 </p>
 
-<h3>Blog</h3>
+<h3> Blog </h3>
 <p>
   <a href="https://velog.io/@heymoko"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@heymoko"/></a>&nbsp
   <a href="https://blog.naver.com/gozila__adm"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/gozila__adm"/></a>&nbsp
 </p>
 
 <p>  
- <h3>E-mail<h3>
- <img src="https://img.shields.io/badge/heymoko@kakao.com-FFCD00?style=flat-square&logo=kakao&logoColor=white" width="150"/>&nbsp
+ <h3> E-mail </h3>
+ <img src="https://img.shields.io/badge/heymoko@kakao.com-FFCD00?style=flat-square&logo=kakao&logoColor=white"/>&nbsp
 </p>
+
