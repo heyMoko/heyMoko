@@ -28,8 +28,16 @@
   <a href="https://blog.naver.com/gozila__adm"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/gozila__adm"/></a>&nbsp
 </p>
 
-<p>  
+ 
  <h3> E-mail </h3>
+ <p> 
  <img src="https://img.shields.io/badge/heymoko@kakao.com-FFCD00?style=flat-square&logo=kakao&logoColor=white"/>&nbsp
 </p>
+
+
+ <h3> Portfolio </h3>
+ <p> 
+<a href="https://peach-straw-2c6.notion.site/Hi-This-is-moKo-b962782a5cb24ac4828dde2ef862df85"><img src="https://img.shields.io/badge/who am i-ffdddd?style=flat-square&logo=AngelList&logoColor=blue&link=https://peach-straw-2c6.notion.site/Hi-This-is-moKo-b962782a5cb24ac4828dde2ef862df85"/></a>&nbsp
+</p>
+
 
