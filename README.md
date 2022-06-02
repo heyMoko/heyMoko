@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/62370144/135639197-67942246-7b47-4ed0-8e0f-9eee916629c7.png"/></br></br>
 
-<h2> Hi, This is moKo! :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2> Hi, This is moKo! :)  </h2>
 <br/>
 
  **사용자 친화적 서비스**를 목표로 개발하는 **안드로이드 개발자**가 되고싶은 **Moko**입니다.<br/>
