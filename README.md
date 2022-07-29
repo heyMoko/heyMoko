@@ -3,7 +3,7 @@
 <h2> Hi, This is moKo! :)  </h2>
 <br/>
 
- **사용자 친화적 서비스**를 목표로 개발하는 **안드로이드 개발자**가 되고싶은 **Moko**입니다.<br/>
+ **사용자 친화적 서비스**를 목표로 개발하는 **안드로이드 개발자** **Moko**입니다.<br/>
 새로운 것에 **도전**하며, 어렵고 안되는 걸 붙잡고 파고드는 **집념**을 가지고 열중합니다. <br/>
 > **Do it though you don't want to. Feelings fade, results remain.** 👊 <br/> 
 
