@@ -35,9 +35,5 @@
 </p>
 
 
- <h3> Portfolio </h3>
- <p> 
-<a href="https://peach-straw-2c6.notion.site/Hi-This-is-moKo-b962782a5cb24ac4828dde2ef862df85"><img src="https://img.shields.io/badge/who am i-ffdddd?style=flat-square&logo=AngelList&logoColor=blue&link=https://peach-straw-2c6.notion.site/Hi-This-is-moKo-b962782a5cb24ac4828dde2ef862df85"/></a>&nbsp
-</p>
 
 
