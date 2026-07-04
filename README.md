@@ -26,14 +26,6 @@
 
 <br/>
 
-### 📈 Statistics
-<p align="left">
-  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=heymoko&hide=stars&show_icons=true&theme=radical" width="395" height="130"/> &nbsp;
-  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymoko&layout=compact&theme=radical" height="130">
-</p>
-
-<br/>
-
 ### ✍️ Blog & Contact
 <p>
   <a href="https://velog.io/@heymoko"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
