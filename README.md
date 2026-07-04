@@ -1,39 +1,48 @@
-<img src="https://user-images.githubusercontent.com/62370144/135639197-67942246-7b47-4ed0-8e0f-9eee916629c7.png"/></br></br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/62370144/135639197-67942246-7b47-4ed0-8e0f-9eee916629c7.png" width="100%"/>
+  <br/>
+  <h1>Hi, I'm moKo 👋</h1>
+  <p><b>"Do it though you don't want to. Feelings fade, results remain."</b></p>
+  <p>기분은 사라지지만 결과는 남는다. 안 되는 이유보다 '되게 하는 방법'을 찾는 집념의 안드로이드 개발자입니다.</p>
+</div>
 
-<h2> Hi, This is moKo! :)  </h2>
 <br/>
 
- **사용자 친화적 서비스**를 목표로 개발하는 **안드로이드 개발자** **Moko**입니다.<br/>
-새로운 것에 **도전**하며, 어렵고 안되는 걸 붙잡고 파고드는 **집념**을 가지고 열중합니다. <br/>
-> **Do it though you don't want to. Feelings fade, results remain.** 👊 <br/> 
+### 📱 Focus On
+- **User-Centric Architecture**: 유지보수가 용이하고 테스트 가능한 **Modern Android Architecture (MVVM, Clean Architecture)**를 지향합니다.
+- **Modern Tech Stack**: **Jetpack Compose**와 **Kotlin Flow**를 활용한 반응형 UI 및 선언적 프로그래밍에 익숙합니다.
+- **Modernization**: 레거시 시스템의 기술 부채를 파악하고, 최신 스택으로의 안정적인 전환(Modernization) 경험을 보유하고 있습니다.
 
-<h3> Statistics: </h3>
+<br/>
+
+### 🛠 Tech Stack
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> |
+| **Android** | <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=JetpackCompose&logoColor=white"/> <img src="https://img.shields.io/badge/Hilt-00BFA5?style=flat-square&logo=Dagger&logoColor=white"/> <img src="https://img.shields.io/badge/Coroutines-07405E?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flow-00BFA5?style=flat-square&logo=Kotlin&logoColor=white"/> |
+| **Network & Local** | <img src="https://img.shields.io/badge/Retrofit2-00BFA5?style=flat-square"/> <img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/DataStore-3DDC84?style=flat-square&logo=Android&logoColor=white"/> |
+| **Backend & Auth** | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> |
+| **Tools** | <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> |
+
+<br/>
+
+### 📈 Statistics
 <p align="left">
   <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=heymoko&hide=stars&show_icons=true&theme=radical" width="395" height="130"/> &nbsp;
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymoko&layout=compact&theme=radical" height="130">
 </p>
 
-<h3> favorite Languages & tools: </h3>
+<br/>
+
+### ✍️ Blog & Contact
 <p>
- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
- <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp
- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>&nbsp
- <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp
+  <a href="https://velog.io/@heymoko"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+  <a href="mailto:heymoko@kakao.com"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/></a>
 </p>
 
-<h3> Blog </h3>
-<p>
-  <a href="https://velog.io/@heymoko"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@heymoko"/></a>&nbsp
-  <a href="https://blog.naver.com/gozila__adm"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/gozila__adm"/></a>&nbsp
-</p>
+<br/>
 
- 
- <h3> E-mail </h3>
- <p> 
- <img src="https://img.shields.io/badge/heymoko@kakao.com-FFCD00?style=flat-square&logo=kakao&logoColor=white"/>&nbsp
-</p>
-
-
-
-
+---
+<div align="center">
+  <i>"어제보다 더 나은 효율적인 코드를 고민합니다."</i>
+</div>
