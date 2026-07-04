@@ -30,8 +30,6 @@
 - **Email** : [heymoko@kakao.com](mailto:heymoko@kakao.com) (Click to Mail)
 - **Channels** : 
   <a href="https://velog.io/@heymoko"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="https://blog.naver.com/gozila__adm"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-
 <br/>
 
 ---
