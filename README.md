@@ -9,7 +9,7 @@
 <br/>
 
 ### 📱 Focus On
-- **User-Centric Architecture**: 유지보수가 용이하고 테스트 가능한 **Modern Android Architecture (MVVM, Clean Architecture)**를 지향합니다.
+- **User-Centric Architecture**: 유지보수가 용이하고 테스트 가능한 Modern Android Architecture (MVVM, Clean Architecture)를 지향합니다.
 - **Modern Tech Stack**: **Jetpack Compose**와 **Kotlin Flow**를 활용한 반응형 UI 및 선언적 프로그래밍에 익숙합니다.
 - **Modernization**: 레거시 시스템의 기술 부채를 파악하고, 최신 스택으로의 안정적인 전환(Modernization) 경험을 보유하고 있습니다.
 
@@ -27,10 +27,10 @@
 <br/>
 
 ### ✍️ Blog & Contact
-<p>
-  <a href="https://velog.io/@heymoko"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
-  <a href="mailto:heymoko@kakao.com"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/></a>
-</p>
+- **Email** : [heymoko@kakao.com](mailto:heymoko@kakao.com) (Click to Mail)
+- **Channels** : 
+  <a href="https://velog.io/@heymoko"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="https://blog.naver.com/gozila__adm"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <br/>
 
