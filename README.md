@@ -46,8 +46,7 @@
 <br/>
 
 ### ✍️ Portfolio & Contact
-- **Portfolio**: [heymoko.github.io/Portfolio](https://heyMoko.github.io/Portfolio/)
-- **GitHub**: [github.com/heyMoko](https://github.com/heyMoko)
+- **Portfolio**: [https://portfolio-heymoko.pages.dev/](https://portfolio-heymoko.pages.dev/)
 - **Email**: [heymoko@kakao.com](mailto:heymoko@kakao.com)
 - **Blog**: [Velog](https://velog.io/@heymoko)
 
