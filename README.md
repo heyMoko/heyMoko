@@ -16,7 +16,7 @@
 <br/>
 
 ### 🚀 Featured Projects
-- **[ColorLoverLab Android](https://heyMoko.github.io/Portfolio/)**  
+- **[ColorLoverLab Android](https://portfolio-heymoko.pages.dev/#projects)**  
   B2C 퍼스널 컬러 서비스 앱의 주요 기능 개발과 운영 개선 경험을 정리한 포트폴리오입니다.  
   홈, 자가 진단, 커뮤니티, 상품, 리뷰, 마이페이지 등 주요 사용자 흐름을 다뤘고, Firebase Analytics와 Crashlytics 기반 운영 경험을 함께 정리했습니다.
 
