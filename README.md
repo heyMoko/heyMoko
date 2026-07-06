@@ -3,7 +3,6 @@
   <br/>
   <h1>Hi, I'm moKo 👋</h1>
   <p><b>"Do it though you don't want to. Feelings fade, results remain."</b></p>
-  <p>기분은 사라지지만 결과는 남습니다. 안 되는 이유보다, 되게 하는 방법을 끝까지 고민하는 안드로이드 개발자입니다.</p>
 </div>
 
 <br/>
