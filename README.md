@@ -20,6 +20,10 @@
   B2C 퍼스널 컬러 서비스 앱의 주요 기능 개발과 운영 개선 경험을 정리한 포트폴리오입니다.  
   홈, 자가 진단, 커뮤니티, 상품, 리뷰, 마이페이지 등 주요 사용자 흐름을 다뤘고, Firebase Analytics와 Crashlytics 기반 운영 경험을 함께 정리했습니다.
 
+- **[BaseLog](https://github.com/moko/BaseLog)**  
+  Firebase를 활용한 실시간 야구 직관 기록 및 소셜 리더보드 서비스입니다.  
+  내 기록과 친구들의 데이터를 결합하는 복잡한 비동기 데이터 흐름(8개 이상의 Flow combine)을 정교하게 관리하여 실시간 순위 산정 로직을 구현했으며, Clean Architecture 기반의 견고한 구조를 설계했습니다.
+
 - **[MyColover](https://github.com/heyMoko/MyColover)**  
   실무에서 다뤘던 퍼스널 컬러/뷰티 도메인을 Jetpack Compose, Hilt, StateFlow, Room, DataStore 기반으로 다시 설계한 개인 modernization 프로젝트입니다.
 
@@ -40,7 +44,7 @@
 
 ### 🔎 Current Focus
 - 실무 운영 경험을 바탕으로 사용자 퍼널과 화면 전환 흐름을 더 안정적으로 설계하는 방법을 정리하고 있습니다.
-- Jetpack Compose, Hilt, StateFlow 기반으로 상태 중심 Android 구조를 다시 다듬고 있습니다.
+- 실시간 데이터 동기화와 대규모 상태 관리를 효율적으로 처리하는 Modern Android 구조를 심도 있게 학습하고 있습니다.
 - 포트폴리오와 개인 프로젝트를 통해 실무 경험과 modern Android 기술 학습 내용을 연결해 정리하고 있습니다.
 
 <br/>
